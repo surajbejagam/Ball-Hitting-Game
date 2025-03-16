@@ -1,4 +1,4 @@
-# Ball-Hitting-Game (Breakout Clone)
+# Ball-Hitting-Game
 
 ## Overview
 Ball-Hitting-Game is a simple Breakout-style game where the player controls a paddle to bounce a ball and break bricks. The game resets if the player misses the ball, and it keeps track of the highest score achieved during the session.
